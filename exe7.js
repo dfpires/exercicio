@@ -5,6 +5,7 @@ function chefe(){
     exe7()
 }
 
+// função testada
 function exe7(){
 
     var soma = 0
